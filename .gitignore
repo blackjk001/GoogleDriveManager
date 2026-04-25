@@ -1,0 +1,50 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+packages/
+*.nupkg
+*.dll
+*.pdb
+*.exe
+
+# Rider / JetBrains IDE
+.idea/
+*.sln.iml
+
+# Logs
+*.log
+
+# NuGet
+NuGetFallbackFolder/
+
+# Secrets and runtime artifacts (CRITICAL)
+client_secrets.json
+tokens/
+*.localsettings.json
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# User-specific files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# Temp
+*.tmp
+Temp/
+temp/
