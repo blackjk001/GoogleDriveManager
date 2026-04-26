@@ -19,7 +19,7 @@ namespace GoogleDriveDownloader.Services
     {
         private const string TokenDirectory = "tokens";
         private const string AppName = "DriveManager";
-        private const string CredentialsPath = "C:\\Users\\Lenovo\\Desktop\\ИТ\\Курсовая работа\\GoogleDriveDownloader\\GoogleDriveDownloader\\client_secrets.json";
+        private const string CredentialsPath = "СЮДА УКАЖИТЕ ВАШ ПУТЬ К GoogleCredentials";
 
 
         // Аутентификация пользователя и получение сервиса
